@@ -1,0 +1,10 @@
+# 请求：客户端发给服务端的图片
+sensor_msgs/Image image
+---
+# 响应：服务端返回的检测结果
+int16 number
+float32 use_time
+int32[] top
+int32[] right
+int32[] bottom
+int32[] left
