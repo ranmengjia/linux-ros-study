@@ -1,0 +1,5 @@
+face_detector_server:
+  ros__parameters:
+    scale_factor: 1.1
+    min_neighbors: 5
+    min_size: [30, 30]
