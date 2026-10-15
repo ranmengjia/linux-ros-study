@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/chapt5_tf/chapt5_tf.egg-info/PKG-INFO
+writing dependency_links to ../../build/chapt5_tf/chapt5_tf.egg-info/dependency_links.txt
+writing entry points to ../../build/chapt5_tf/chapt5_tf.egg-info/entry_points.txt
+writing requirements to ../../build/chapt5_tf/chapt5_tf.egg-info/requires.txt
+writing top-level names to ../../build/chapt5_tf/chapt5_tf.egg-info/top_level.txt
+reading manifest file '../../build/chapt5_tf/chapt5_tf.egg-info/SOURCES.txt'
+writing manifest file '../../build/chapt5_tf/chapt5_tf.egg-info/SOURCES.txt'
+running build
+running build_py
+copying chapt5_tf/dynamic_tf_broadcaster.py -> /home/user/chapt5/ros2_ws/build/chapt5_tf/build/lib/chapt5_tf
+running install
+running install_lib
+copying /home/user/chapt5/ros2_ws/build/chapt5_tf/build/lib/chapt5_tf/dynamic_tf_broadcaster.py -> /home/user/chapt5/ros2_ws/install/chapt5_tf/lib/python3.10/site-packages/chapt5_tf
+byte-compiling /home/user/chapt5/ros2_ws/install/chapt5_tf/lib/python3.10/site-packages/chapt5_tf/dynamic_tf_broadcaster.py to dynamic_tf_broadcaster.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/user/chapt5/ros2_ws/install/chapt5_tf/lib/python3.10/site-packages/chapt5_tf-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/chapt5_tf/chapt5_tf.egg-info to /home/user/chapt5/ros2_ws/install/chapt5_tf/lib/python3.10/site-packages/chapt5_tf-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dynamic_tf_broadcaster script to /home/user/chapt5/ros2_ws/install/chapt5_tf/lib/chapt5_tf
+Installing static_tf_broadcaster script to /home/user/chapt5/ros2_ws/install/chapt5_tf/lib/chapt5_tf
+writing list of installed files to '/home/user/chapt5/ros2_ws/build/chapt5_tf/install.log'

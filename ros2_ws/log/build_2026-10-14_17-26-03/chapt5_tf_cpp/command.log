@@ -1,0 +1,4 @@
+Invoking command in '/home/user/chapt5/ros2_ws/build/chapt5_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/chapt5/ros2_ws/build/chapt5_tf_cpp -- -j12 -l12
+Invoked command in '/home/user/chapt5/ros2_ws/build/chapt5_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/chapt5/ros2_ws/build/chapt5_tf_cpp -- -j12 -l12
+Invoking command in '/home/user/chapt5/ros2_ws/build/chapt5_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/chapt5/ros2_ws/build/chapt5_tf_cpp
+Invoked command in '/home/user/chapt5/ros2_ws/build/chapt5_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/chapt5/ros2_ws/build/chapt5_tf_cpp
